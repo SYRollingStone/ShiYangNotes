@@ -16,6 +16,8 @@ ANTHROPIC_AUTH_TOKEN
 
 ![VS Code Chat Screenshot](../Images/可用.png)
 
-# 使用Cline作为Cursor平替
-插件商城搜索cline，然后配置即可。
+# [推荐]使用Cline作为Cursor平替
+插件商城搜索cline，
+![VS Code Chat Screenshot](../Images/vs插件商城安装cline.png)
+然后配置即可。
 ![VS Code Chat Screenshot](../Images/cline截图.png)
