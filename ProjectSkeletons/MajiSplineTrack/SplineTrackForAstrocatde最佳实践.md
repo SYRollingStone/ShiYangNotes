@@ -72,6 +72,8 @@ https://www.desmos.com/calculator/9kazaxavsf?utm_source=chatgpt.com&lang=zh-CN
 用P0和P2得到P1附近的方向，用P1和P3得到P2附近的方向。
 用前后相邻点，自动估计当前点的切线方向。  
 
+SR和三次Bezier如何选择：SR不会有突然的弯折突变，三次Bezier能精准控制曲线但是可能存在节点处的突变。
+
 ## 完全看不懂数学公式，嘻嘻
 
 # 五、轨道投影法的问题
