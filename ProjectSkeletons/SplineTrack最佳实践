@@ -1,0 +1,12 @@
+# 一. Unity Editor 部分
+1. Unity中是用官方Spline插件，编辑节点与曲线。类似过山车这种单线轨道游戏推荐Catmull曲线，其他类型如公路、滑梯等可以尝试选择三次Bezier曲线。
+2. 利用Agent编写导出节点Json功能。
+我在走过 使用SPline插件 - 自己设计Catmull曲线 - 自己尝试用三次贝塞尔实现 ，最终确认用Spline即可它都考虑到了。
+
+# 二. Three.js 部分
+1. Three.js自带Catmull曲线和Bezier曲线的实现，可以无缝衔接。
+2. 重点与核心：投影法做普通轨道，平行传输法+打特殊点确定特别段落 解决 投影法中投影与世界Y重叠导致的轨道翻折问题。
+![翻折问题](https://me.majigame.com/_astro/%E6%89%AD%E6%9B%B2%E7%9A%84%E8%BD%A8%E9%81%93.CAj3OpgN_1UJjdt.webp)
+
+# 三. 工程内容
+
