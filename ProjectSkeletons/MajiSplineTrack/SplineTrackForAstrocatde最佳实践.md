@@ -2,6 +2,8 @@
 1. Unity中是用官方Spline插件，编辑节点与曲线。类似过山车这种单线轨道游戏推荐Catmull曲线，其他类型如公路、滑梯等可以尝试选择三次Bezier曲线。
 2. 利用Agent编写导出节点Json功能。
 3. Unity与Three.js坐标系规则不同，注意导出json处理Transform关系。
+具体看同目录下：Unity2Three坐标系转换 Skill.md
+
 我在走过 使用SPline插件 - 自己设计Catmull曲线 - 自己尝试用三次贝塞尔实现 ，最终确认用Spline即可它都考虑到了，因为最佳实践推荐使用Spline插件所以Unity部分足够的简单了。
 
 # 二. Three.js 部分
