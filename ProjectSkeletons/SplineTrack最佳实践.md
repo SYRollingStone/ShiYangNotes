@@ -5,7 +5,7 @@
 
 # 二. Three.js 部分
 1. Three.js自带Catmull曲线和Bezier曲线的实现，可以无缝衔接。
-2. 重点与核心：投影法做普通轨道，平行传输法+打特殊点确定特别段落 解决 投影法中投影与世界Y重叠导致的轨道翻折问题。
+2. 重点与核心：投影法做普通轨道，平行传输法+打特殊点确定特别段落 解决 投影法中投影与世界Y重叠导致的轨道翻折问题。有兴趣看第五部分。
 ![翻折问题](https://me.majigame.com/_astro/%E6%89%AD%E6%9B%B2%E7%9A%84%E8%BD%A8%E9%81%93.CAj3OpgN_1UJjdt.webp)
 
 # 三. 工程内容
@@ -71,11 +71,11 @@ https://www.desmos.com/calculator/9kazaxavsf?utm_source=chatgpt.com&lang=zh-CN
 
 ## 完全看不懂数学公式，嘻嘻
 
-# 轨道投影法的问题
+# 五、轨道投影法的问题
 ## 问题
 我们通过上面的内容可以构造出任意的线。那么可以尝试生成轨道，首先利用"投影法"但会出现下面的问题：
 
-![扭曲的轨道](../../../public/blogImages/MajiSpline/扭曲的轨道.png)
+![翻折问题](https://me.majigame.com/_astro/%E6%89%AD%E6%9B%B2%E7%9A%84%E8%BD%A8%E9%81%93.CAj3OpgN_1UJjdt.webp)
 
 投影法：世界 Y+ 向量投影到切线的法平面上。
 
