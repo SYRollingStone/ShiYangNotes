@@ -16,3 +16,5 @@ https://platform.deepseek.com/
 OpenCode可以直接选DeepSeek的V4模型。
 
 貌似是直接调用Deepseek，不需要通过OpenApi这种中转。
+
+#[只推荐ClaudeCode]
