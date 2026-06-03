@@ -1,4 +1,4 @@
-<img width="759" height="664" alt="image" src="https://github.com/user-attachments/assets/4557a8f0-76f2-4e4f-8895-56e383bf383b" /># 1. 数据网站分享
+# 1. 数据网站分享
 总排名，历史大名单：
 
 https://www.rolimons.com/games
@@ -18,8 +18,7 @@ https://www.roblox.com/charts/top-playing-now
 ### 2.2.1 尽量保留的Roblox的味道
 #### a.Roblox的场景风格
 1. 模块化、乐高感重的场景搭建，有搭建感。
-   <img width="759" height="664" alt="image" src="https://github.com/user-attachments/assets/444b518b-15b2-4430-bb23-3eca7d9f92c7" />
-
+<img width="759" height="664" alt="image" src="https://github.com/user-attachments/assets/444b518b-15b2-4430-bb23-3eca7d9f92c7" />
 2. 低多边形风格
 3. 鲜明干净的色彩。直接简单粗暴的指示。
 4. 场景区域化，一般都存在明显的起点、跑酷区、Shop区、多Stage划分。
