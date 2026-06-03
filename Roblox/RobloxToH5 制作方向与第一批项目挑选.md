@@ -46,8 +46,18 @@ https://www.roblox.com/charts/top-playing-now
 做愚蠢的AI对手
 ![RIVALS](images/RIVALS.png)
 
+## 2.2 OBBY障碍赛
+五个角色有五个特性，蜥蜴可以钻洞，猴子可以爬竖直的墙壁，袋鼠可以跳跃更高更远，大象可以撞碎障碍。
+<img width="758" height="568" alt="image" src="https://github.com/user-attachments/assets/9f837e67-3a4c-4f2e-9860-f84631376246" />
 
-## 2.2 抽卡 Slime RNG
+## 2.3 体育+挂机数值
+先找个桩子挂机升级体力，然后找对手打
+
+<img width="632" height="565" alt="image" src="https://github.com/user-attachments/assets/1eb535eb-3d6d-4c46-9723-7106561cb78f" />
+
+<img width="532" height="554" alt="image" src="https://github.com/user-attachments/assets/134160d4-909d-48a9-85e0-54a6ad11770b" />
+
+## 2.4 抽卡 Slime RNG
 
 玩家不用动，摇骰子，抽史莱姆，史莱姆自动找敌人战斗。
 
@@ -57,7 +67,7 @@ Roblox味道没有那么重，但是胜在简单，可以第一个项目尝试�
 
 ![SlimeRNG](images/SlimeRNG.png)
 
-## 2.3 种田 [⚔️] Grow a Garden 🌶️
+## 2.5 种田 [⚔️] Grow a Garden 🌶️
 
 传统的买种子、种地、卖产品。
 
@@ -67,7 +77,7 @@ Roblox味道没有那么重，但是胜在简单，可以第一个项目尝试�
 
 ![GrowaGarden](images/GrowaGarden.png)
 
-## 2.4 类魂打boss动作
+## 2.6 类魂打boss动作
 
 类魂游戏天生朝向锁boss方向
 
