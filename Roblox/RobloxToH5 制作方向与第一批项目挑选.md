@@ -41,6 +41,8 @@ https://www.roblox.com/charts/top-playing-now
 
 
 ## 3.1 射击类 RIVALS 【推荐】
+玩家数历史第四
+
 小地图内的1v1 2v2 NvN
 只做左摇杆移动，右摇杆同时负责转向+射击。
 做愚蠢的AI对手
@@ -58,6 +60,7 @@ https://www.roblox.com/charts/top-playing-now
 <img width="532" height="554" alt="image" src="https://github.com/user-attachments/assets/134160d4-909d-48a9-85e0-54a6ad11770b" />
 
 ## 3.4 抽卡 Slime RNG
+玩家数历史前二十。
 
 玩家不用动，摇骰子，抽史莱姆，史莱姆自动找敌人战斗。
 
@@ -68,6 +71,7 @@ Roblox味道没有那么重，但是胜在简单，可以第一个项目尝试�
 ![SlimeRNG](images/SlimeRNG.png)
 
 ## 3.5 种田 [⚔️] Grow a Garden 🌶️
+玩家数历史前二十
 
 传统的买种子、种地、卖产品。
 
