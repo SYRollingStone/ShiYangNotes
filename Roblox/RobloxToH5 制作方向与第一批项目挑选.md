@@ -14,7 +14,7 @@ https://www.roblox.com/charts/top-playing-now
 ## 2.1 目的
 验证 Roblox 风格 放到Astrocade等H5小游戏平台表现如何。
 
-## 2.2 RobloxH5和H5游戏的区别
+## 2.2 分析如何做到Roblox风格的形似和神似
 ### 2.2.1 尽量保留的Roblox的味道
 #### a.Roblox的场景风格
 1. 模块化、乐高感重的场景搭建，有搭建感。
