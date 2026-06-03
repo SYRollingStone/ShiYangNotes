@@ -21,10 +21,10 @@ https://www.roblox.com/charts/top-playing-now
 <img width="759" height="664" alt="image" src="https://github.com/user-attachments/assets/444b518b-15b2-4430-bb23-3eca7d9f92c7" />
 
 2. 低多边形风格
-3. 
-4. 鲜明干净的色彩。直接简单粗暴的指示。
-5. 
-6. 场景区域化，一般都存在明显的起点、跑酷区、Shop区、多Stage划分。
+   
+3. 鲜明干净的色彩。直接简单粗暴的指示。
+   
+4. 场景区域化，一般都存在明显的起点、跑酷区、Shop区、多Stage划分。
 
 #### b. Roblox的经典角色形象
 
